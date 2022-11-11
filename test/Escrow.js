@@ -6,5 +6,8 @@ const tokens = (n) => {
 }
 
 describe('Escrow', () => {
+   it("The Real Estate Contract" , async () => {
+    
+   })
 
 })
